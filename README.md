@@ -15,8 +15,8 @@ Aqui você encontrará projetos relacionados aos meus estudos, incluindo exemplo
 
 Se quiser saber mais sobre o que estou fazendo ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
 
-- [LinkedIn](www.linkedin.com/in/davi-santos-ab5356215)
-- [Email](#)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Blm4pnpX6Tj2F3NlUPuQyPA%3D%3D)
+- [Instagram](https://www.instagram.com/davi.sp0?igsh=MWlkMDYwZXJ3aGJiaQ==)
 
 ## Como Contribuir
 
