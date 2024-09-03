@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bem-vindo(a) ao meu repositório!
 
-<!--
-**davisantoss2/davisantoss2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Davi, estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tenho interesse em desenvolvimento de software e atualmente estou focado em aprimorar minhas habilidades nas linguagens C e JavaScript.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C**: Desenvolvimento de programas e estruturas de dados.
+- **JavaScript**: Desenvolvimento web, com foco em aplicações dinâmicas.
+
+## Projetos
+
+Aqui você encontrará projetos relacionados aos meus estudos, incluindo exemplos de código, exercícios e aplicações que desenvolvi durante meu curso.
+
+## Contato
+
+Se quiser saber mais sobre o que estou fazendo ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
+
+- [LinkedIn](#)
+- [Email](#)
+
+## Como Contribuir
+
+Se você deseja contribuir para algum projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Ficarei feliz em analisar e discutir melhorias!
+
